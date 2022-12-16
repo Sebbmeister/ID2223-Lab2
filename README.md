@@ -6,7 +6,7 @@ Due to time constraints, the model has been downsized to do 1000 max steps and c
 
 ## Links
 * The model in HuggingFace: https://huggingface.co/SebLih/whisper-SV3
-* The interactive application in HuggingFace:
+* The interactive application in HuggingFace: https://huggingface.co/spaces/SebLih/SV-Transcription
 
 ## Ways to improve performance
 Because of Google Colab GPU user limits it was difficult to test a large amount of parameters or alternative approaches, which means that the performance of the final model is limited. We tested different values for the different training arguments but given the time required to run the code only very few configurations could be tested. Given more time, it would have been possible to improve the model in various ways:
