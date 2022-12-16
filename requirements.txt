@@ -1,0 +1,10 @@
+gradio
+tensorflow
+ffmpeg
+transformers
+joblib
+datasets
+librosa
+evaluate
+git
+jiwer
