@@ -3,7 +3,7 @@
 This repository contains our solution to the second lab assignment in the KTH course ID2223. The purpose of the lab was to fine-tune a transformer model to transcribe Swedish from audio to text. Most of the code was based on a sample Google Colab notebook provided in the course, with some minor adjustments being made. The original notebook was divided into two (feature_pipeline.ipynb and training.ipynb). The file app.py is for the user interface in HuggingFace. Due to time constraints, the model has been downsized to do 1000 max steps and checkpoint every 200th step. The amount of training, validation and test data used has also been lowered to 30 % of each since we were otherwise unable to save the files to Google Drive.
 
 ## Links
-* The model in HuggingFace:
+* The model in HuggingFace: https://huggingface.co/SebLih/whisper-SV3
 * The interactive application in HuggingFace:
 
 ## Ways to improve performance
